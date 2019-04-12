@@ -13,6 +13,7 @@
 	<p>
 	<h2>HelloWorld of CTF!</h2>
 	</p>
+	<h2>Hey Folks play the game</h2>
 	<hr>
 	<!-- display user name and role -->
 	<p>
